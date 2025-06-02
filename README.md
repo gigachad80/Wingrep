@@ -461,7 +461,7 @@ ERROR: Failed to save data
 3. **Use dry run mode** (`-d`) to preview what would be added
 4. **Quiet mode** (`-q`) is perfect for silent data collection
 5. **Regex mode** (`-E`) enables powerful pattern matching
-6. **Remember**: wingrep uses `type` instead of `cat` on Windows
+6. **Remember**: You can wingrep with `cat` if you're running using Powershell and use `type` if you're using CMD.
 
 ---
 
