@@ -1,4 +1,4 @@
-# 🚀 WinGrep - Windows Utility
+# 🚀 Project Name : Wingrep
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-pink.svg" alt="Maintenance">
