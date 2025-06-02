@@ -1,4 +1,4 @@
-# 🚀 WinGrep - Windows Text Processing Utility
+# 🚀 WinGrep - Windows Utility
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-pink.svg" alt="Maintenance">
