@@ -280,7 +280,7 @@ wingrep -E "User-Agent: .*" -m user-agents.txt access.log
 | **Aspect** | **PowerShell 🤡** | **WinGrep 🗿** |
 |------------|-------------------|----------------|
 | **Startup Time** | ~2-3 seconds (PowerShell initialization) | ~50ms (native binary) |
-| **Memory Usage** | ~50-100MB (PowerShell runtime) | ~5-10MB (Go binary) |
+| **Memory Usage** | ~50-100MB (PowerShell runtime) | ~3MB (Go binary) |
 | **Large Files** | Can crash with Out-of-Memory | Streams data efficiently |
 | **Pipeline Overhead** | Each `\|` creates new process | Single process handles all |
 
@@ -475,7 +475,7 @@ I don't want to write bloated PS commands, and as an avid Linux user, I prefer s
 
 ## ⌚ Development Stats
 
-**Total Time taken to develop & test:** 4 hour 5 min
+**Total Time taken to develop, test and writing README : Approx **3 hr - 3 hr 30 min**
 
 ---
 
