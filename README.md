@@ -41,7 +41,7 @@ Whether you're analyzing logs, processing bug bounty data, or filtering large te
 ### If you have Git installed :
 1. Git clone this repo 
 ```
-git clone https://github.com/gigachad80/wingrep
+git clone https://github.com/gigachad80/Wingrep
 ```
 2. Now build Go executable : 
 
