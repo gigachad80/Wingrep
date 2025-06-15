@@ -504,3 +504,5 @@ Licensed under **GNU Affero General Public License 3.0**
 <p align="center">
   🕒 Last Updated: June 2, 2025
 </p>
+
+<!-- GitAds-Verify: IA8OJ4NVD7X5N3VV8J6SEYE2JLOOYILF -->
