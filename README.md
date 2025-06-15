@@ -504,5 +504,7 @@ Licensed under **GNU Affero General Public License 3.0**
 <p align="center">
   🕒 Last Updated: June 2, 2025
 </p>
+## GitAds Sponsored
+[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=gigachad80/wingrep@github)](https://gitads.dev/v1/ad-track?source=gigachad80/wingrep@github)
 
-<!-- GitAds-Verify: IA8OJ4NVD7X5N3VV8J6SEYE2JLOOYILF -->
+
