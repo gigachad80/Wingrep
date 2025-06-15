@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Maintained%3F-yes-pink.svg" alt="Maintenance">
-  <a href="https://github.com/gigachad80/wingrep/issues">
+  <a href="https://github.com/gigachad80/Wingrep/issues">
     <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contributions Welcome">
   </a>
 </p>
@@ -498,13 +498,11 @@ Licensed under **GNU Affero General Public License 3.0**
 ---
 
 <p align="center">
-  <strong>Need help?</strong> Run <code>wingrep -h</code> for quick reference or check the examples above!
+  <strong>Need help?</strong> Run <code>wingrep -h</code> for quick reference or check the examples above! or contact at mail or raise issuse
 </p>
 
 <p align="center">
   🕒 Last Updated: June 2, 2025
 </p>
-## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=gigachad80/wingrep@github)](https://gitads.dev/v1/ad-track?source=gigachad80/wingrep@github)
 
 
