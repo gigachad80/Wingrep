@@ -503,7 +503,7 @@ Licensed under **GNU Affero General Public License 3.0**
 </p>
 
 <p align="center">
-  🕒 Last Updated: June 2, 2025
+  🕒 Last Updated: June 17, 2025
 </p>
 
 
